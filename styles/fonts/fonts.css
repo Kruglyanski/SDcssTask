@@ -1,0 +1,23 @@
+@font-face {
+    src: url(./opensanssemibold.woff) format('woff');
+    font-family: 'OpenSans';
+    font-weight: normal;
+}
+
+@font-face {
+    src: url(./Poppinsregular.woff) format('woff');
+    font-family: 'Poppins';
+    font-weight: normal;
+}
+
+@font-face {
+    src: url(./Roboto.woff) format('woff');
+    font-family: 'Roboto';
+    font-weight: normal;
+}
+
+@font-face {
+    src: url(./Robotobold.woff) format('woff');
+    font-family: 'RobotoBold';
+    font-weight: bold;
+}

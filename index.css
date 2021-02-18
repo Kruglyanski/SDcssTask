@@ -1,0 +1,12 @@
+@import url('./styles/fonts/fonts.css');
+@import url('./styles/search/search.css');
+@import url('./styles/menu/menu.css');
+@import url('./styles/page-content/page-content.css');
+@import url('./styles/main/main.css');
+@import url('./styles/results/results.css');
+
+
+body {
+    margin: 0px;
+}
+
